@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Index</title>
+</head>
+
+<body>
+
+<p>Welcome this is html <br/>page</p>
+<p>The use of &nbsp; tag</p>
+<img src="" alt="This is a image" />
+<u><i><b><Welcome></b></i></u>
+
+ 
+
+
+<table border="100">
+<tr>
+<td>A</td>
+<td>B</td>
+</tr>
+<tr>
+<td>C</td>
+<td>D</td>
+
+</tr>
+
+
+
+</table>
+
+
+
+</body>
+
+</html>
